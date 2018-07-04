@@ -1,0 +1,24 @@
+https://developer-tripadvisor.com/content-api/documentation/
+
+https://www.yelp.com/developers/documentation/v3/get_started
+https://www.yelp.com/developers/faq
+https://www.coursehero.com/file/p1tb416/If-you-follow-this-approach-you-have-to-think-about-ways-to-extract-links-from/
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+For our project "Good Weather To GO!!!!"
+
+Objective: To search the places or things to do in a particular location from the variety of websites on the basis of weather and if feasible considering the time of the day left.
+
+Problem focussed: Usually websites give places irrespective of weather and the time of the day left. In addition, we need to visit different websites and there is no comparative study. This all is time consuming.
+
+Websites targetted: openweather, tripadvisor, yelp, fadango, omdb,rotten tomatoes
+
+https://developer-tripadvisor.com/content-api/documentation/
+
+https://www.yelp.com/developers/documentation/v3/get_started
+https://www.yelp.com/developers/faq
+https://www.coursehero.com/file/p1tb416/If-you-follow-this-approach-you-have-to-think-about-ways-to-extract-links-from/
+
+http://www.omdbapi.com/?apikey=[yourkey]&
+
+https://developer.fandango.com/
