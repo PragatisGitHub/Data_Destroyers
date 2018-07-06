@@ -1,0 +1,12 @@
+
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?key=AIzaSyC5rGYUddVUFDYwhmshYciMpNeQxpa2YmQ&input=Museum%20of%20Contemporary%20Art%20Australia&inputtype=textquery&fields=formatted_address,name,rating,opening_hours
+
+
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?key=AIzaSyC5rGYUddVUFDYwhmshYciMpNeQxpa2YmQ&input=Museum of Contemporary Art Australia&inputtype=textquery
+
+https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJ68aBlEKuEmsRHUA9oME5Zh0
+
+https://maps.googleapis.com/maps/api/place/details/json?key=AIzaSyC5rGYUddVUFDYwhmshYciMpNeQxpa2YmQ&placeid=ChIJ68aBlEKuEmsRHUA9oME5Zh0
+
+https://maps.googleapis.com/maps/api/place/details/json?key=AIzaSyC5rGYUddVUFDYwhmshYciMpNeQxpa2YmQ&placeid=ChIJvVUPE1D-wokRUE_AJg7X7sg
